@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Restaurant</title>
+</head>
+
+<body>
+
+<h1>Welcome to  restaurent</h1>
+
+<h2>Menu</h2>
+<h3> Here are your list of items to order</h3>
+<ul>
+<li>Pizza - ₹200</li>
+<li>Burger - ₹120</li>
+<li>Pasta - ₹180</li>
+<li>Cold Coffee - ₹90</li>
+</ul>
+<img src="pizza.jpg" alt="pizza">
+</body>
+</html>
